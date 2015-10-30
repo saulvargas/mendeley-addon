@@ -1,0 +1,16 @@
+{
+  "title": "Mendeley addon",
+  "name": "mendeley-addon",
+  "version": "0.0.1",
+  "description": "An addon to bring up the \"Save to Mendeley\" popup.",
+  "main": "index.js",
+  "author": "Saúl Vargas (Saul.Vargas@glasgow.ac.uk)",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MPL",
+  "keywords": [
+    "jetpack"
+  ]
+}
