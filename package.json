@@ -2,7 +2,7 @@
   "title": "Mendeley addon",
   "name": "mendeley-addon",
   "version": "0.0.1",
-  "description": "An addon to bring up the \"Save to Mendeley\" popup.",
+  "description": "An addon that adds a button to the Firefox toolbar to bring up the \"Save to Mendeley\" popup.",
   "main": "index.js",
   "author": "Saúl Vargas (Saul.Vargas@glasgow.ac.uk)",
   "engines": {
